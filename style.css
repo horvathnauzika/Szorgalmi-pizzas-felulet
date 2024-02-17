@@ -1,0 +1,36 @@
+main{
+    width: 80%;
+    margin: auto;
+    background-color: #e9e1d6;
+}
+
+body{
+    background-image: url(hatterkep.jpg);
+}
+
+h1{
+    text-align: center;
+    padding-top: 10px;
+    margin: 2%;
+}
+
+.kozep{
+    text-align: center;
+}
+nav{
+    border-radius: 10px;
+}
+
+nav li a{
+    border-radius: 10px;
+    gap: 5px;
+}
+p{
+    text-align: center;
+}
+article{
+    margin: 2%;
+}
+footer{
+    padding-bottom: 3px;
+}
